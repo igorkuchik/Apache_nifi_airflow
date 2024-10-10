@@ -1,0 +1,13 @@
+#PG Admin
+/PGADMIN/file_share
+#DWH
+/DWH/file_share/dwh_postgresql_data
+#Airflow
+GLOBAL_SHARE/AIRFLOW/dags/__pycache__
+/AIRFLOW/file_share/plugins
+/AIRFLOW/file_share/logs
+#Airflow DB
+/AIRFLOW_DB/file_share/airflow_postgresql_data
+#Nifi
+/NIFI/file_share
+/GLOBAL_SHARE/NIFI/conf/archive
